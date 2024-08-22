@@ -17,6 +17,7 @@ const (
 	// TODO: choose a name for your hyperchain
 	Name = "AVAXCHAIN"
 	// TODO: choose a token symbol
+
 	Symbol = "ACH"
 )
 
